@@ -1,0 +1,55 @@
+.bg-color{
+    background-color: #F0FFF0;
+}
+.top-img{
+    position: absolute;
+    width: 554px;
+    height: 346px;
+    left: 691px;
+    top: 157px;
+}
+.red-text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+    position: absolute;
+    width: 189px;
+    height: 24px;
+    left: 205px;
+    top: 178px;
+}
+.big-text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+    /* or 146% */
+    color: #000000;
+    position: absolute;
+    width: 405px;
+    height: 140px;
+    left: 205px;
+    top: 212px;
+}
+.b-text{
+    position: absolute;
+    width: 403px;
+    height: 85px;
+    left: 205px;
+    top: 371px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 36px;
+    /* or 225% */
+
+
+    color: #6C6B6B;
+
+}
